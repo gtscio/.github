@@ -11,14 +11,14 @@ To install the code for all the framework repositories, refer to the [Workspace 
 
 ## Applications
 
-### Workbench Server
+### Workbench Server [[Repo](https://github.com/twinfoundation/workbench)]
 
 This API server demonstrates how to use the framework components to build a REST server.
 
-### Workbench UI
+### Workbench UI [[Repo](https://github.com/twinfoundation/workbench)]
 
 This UI, built with Svelte, demonstrates how to communicate with the Workbench Server.
 
-## Schemas
+## Schemas [[Repo](https://github.com/twinfoundation/schema)]
 
 The JSON and JSON-LD schemas for the data types in the various packages are available at [https://schema.twindev.org](https://schema.twindev.org)
