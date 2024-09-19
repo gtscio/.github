@@ -1,13 +1,13 @@
 <h1 style="display:flex;align-items:center;gap:10px">
 <img src="logo.svg" width="32px" height="32px">
-GTSC
+TWIN
 </h1>
 
-Welcome to the GTSC repository.
+Welcome to the TWIN repository, to learn more about the TWIN foundation visit [https://www.twin.org/](https://www.twin.org/).
 
-You can read the documentation that supports this repository at [https://docs-next.gtsc.io/](https://docs-next.gtsc.io/)
+Documentation for development using TWIN can be found at [https://www.twindev.org/](https://www.twindev.org/)
 
-To install the code for all the framework repositories, refer to the [Workspace repository](https://github.com/gtscio/workspace) which includes all the other repositories as submodules. Follow the instructions in the repository to learn how to use it.
+To install the code for all the framework repositories, refer to the [Workspace repository](https://github.com/twinfoundation/workspace) which includes all the other repositories as submodules. Follow the instructions in the repository to learn how to use it.
 
 ## Applications
 
@@ -21,4 +21,4 @@ This UI, built with Svelte, demonstrates how to communicate with the Workbench S
 
 ## Schemas
 
-The object schemas for the data types in the various packages are available at [https://schema.gtsc.io](https://schema.gtsc.io)
+The JSON and JSON-LD schemas for the data types in the various packages are available at [https://schema.twindev.org](https://schema.twindev.org)
