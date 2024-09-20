@@ -5,7 +5,7 @@ TWIN
 
 Welcome to the TWIN repository, to learn more about the TWIN foundation visit [https://www.twin.org/](https://www.twin.org/).
 
-Documentation for development using TWIN can be found at [https://www.twindev.org/](https://www.twindev.org/)
+Documentation for development using TWIN can be found at [https://twindev.org/](https://twindev.org/)
 
 To install the code for all the framework repositories, refer to the [Workspace repository](https://github.com/twinfoundation/workspace) which includes all the other repositories as submodules. Follow the instructions in the repository to learn how to use it.
 
